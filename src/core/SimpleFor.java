@@ -7,7 +7,7 @@ public class SimpleFor {
 
 	public static void main(String[] args) throws Exception{
 		//WPA to print any table
-		System.out.println("this is the simple example of for loop");
+		System.out.println("this is the simple example of for loop####");
 		System.out.println("enter any no");
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		int a=Integer.parseInt(br.readLine());
